@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @AvishkaRavishan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hello 👋, I’m @AvishkaRavishan</h1>
 
-<h1 align="center">Hi 👋, I’m @AvishkaRavishan</h1>
-
-<h3 align="center">A  Software developer from Srilanka</h3>
+<h3 align="center">A Software Developer from Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
