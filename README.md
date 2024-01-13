@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I’m @AvishkaRavishan</h1>
 
-<h3 align="center">Software Developer and Entrepreneur from Sri Lanka</h3>
+<h3 align="center">Software Engineer and Entrepreneur</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,5 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishkaravishan&show_icons=true&locale=en&layout=compact" alt="avishk-pro" /></p>
 
 
-machealth.co
+machealth.co \n
 doolshe.com
