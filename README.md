@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I’m Avir S</h1>
+<h1 align="center">Hello 👋, I’m Avishka R. Sirigampola S</h1>
 
 <h3 align="center">Software Engineer and Entrepreneur</h3>
 
