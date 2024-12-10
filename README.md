@@ -13,12 +13,6 @@ I’ve worked on impactful projects like **MacHealth**, **AgroX**, and **SynerX*
 
 ---
 
-### Connect with Me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/avishk)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/avishk678)
-
----
-
 ### Projects and Work:
 - [MacHealth.lk](https://machealth.lk)
 - [Avance Solutions](https://avancesolutions.co)
