@@ -14,7 +14,7 @@ I’ve worked on impactful projects like **MacHealth**, **AgroX**, and **SynerX*
 ---
 
 ### Projects and Work:
-<div align="center">
+<div align="left">
   <img src="https://github.com/user-attachments/assets/f0e30757-b8b4-4b3e-81a8-a8bc17dc69ea" alt="NBQSA 2023 Award" style="border-radius: 10px; width: 500px; height: auto;" />
 </div>
 
