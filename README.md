@@ -14,6 +14,7 @@ I’ve worked on impactful projects like **MacHealth**, **AgroX**, and **SynerX*
 ---
 
 ### Projects and Work:
+![NBQSA23](https://github.com/user-attachments/assets/f0e30757-b8b4-4b3e-81a8-a8bc17dc69ea)
 - [MacHealth.lk](https://machealth.lk)
 - [Avance Solutions](https://avancesolutions.co)
 - **AgroX**: Award-winning project at NBQSA 2023
