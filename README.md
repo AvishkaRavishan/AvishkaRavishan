@@ -21,13 +21,4 @@ I’ve worked on impactful projects like **MacHealth**, **AgroX**, and **SynerX*
 
 ---
 
-### My Repositories:
-Here are some of the repositories I’m most proud of:
-- [**Portfolio Website**](https://github.com/avishkaravishan/portfolio-website): A personal website showcasing my work, skills, and achievements.
-- [**Task Management App**](https://github.com/avishkaravishan/task-manager): A project management tool for teams to track tasks efficiently.
-- [**E-Commerce Platform**](https://github.com/avishkaravishan/ecommerce-platform): A scalable e-commerce platform with a user-friendly interface.
-- [**AgroX Project**](https://github.com/avishkaravishan/agrox): The repository for my award-winning final year project at SLIIT.
-
----
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=avishkaravishan&show_icons=true&locale=en&layout=compact)
