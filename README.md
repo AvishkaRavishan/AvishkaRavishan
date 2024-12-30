@@ -1,6 +1,6 @@
 # Hello 👋, I’m Avishka R. Sirigampola
 
-### Software Engineer & BA
+### Software Engineer & Business Analyst
 
 ---
 
