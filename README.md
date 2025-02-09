@@ -20,7 +20,7 @@ I’ve worked on impactful projects like **MacHealth**, **AgroX**, and **SynerX*
 
 - [**MacHealth.lk**](https://machealth.co): e-Medicine + AI Platform
 - [**Avance Solutions**](https://avancesolutions.co): Micro-Biz Automation Solutions
-- **AgroX**: Award-winning project at NBQSA 2023
+- [**AgroX**](https://youtu.be/vH4i92vng-8?si=hTJiubPq9mFxD6t3): Award-winning project at NBQSA 2023
 - [**SynerX**](https://avancesolutions.co): Networking and business solutions platform
 
 ---
